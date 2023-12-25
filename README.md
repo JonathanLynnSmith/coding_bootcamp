@@ -2,15 +2,16 @@
 
 I'm thrilled to have you on board for this exciting coding bootcamp. Before we dive into the hands-on coding exercises, let's make sure you have everything set up. This guide will walk you through the installation of essential tools and provide a brief overview of their usage.
 
+Checkout the outline for the day here --> [outline.md](./outline.md)
+
 <br>
 
 # Prerequisites
 
 Before we begin, 
-- make sure you have a basic understanding of programming concepts.  
-  - This can easily be done by 
-    - looking up a short video on Youtube like [this one](https://www.youtube.com/watch?v=-uleG_Vecis) 
-    - or checking out the [basic_coding_concepts.md](basic_coding_concepts.md) file in this repository.  
+- Make sure you have a basic understanding of programming concepts.  
+  - This can easily be done by checking out the [basic_coding_concepts.md](basic_coding_concepts.md) file in this repository.  
+  - Optional Video --> [here](https://www.youtube.com/watch?v=-uleG_Vecis) 
 - Familiarity with the command line will be helpful but is not mandatory.
   - [Basic command line tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
 
@@ -26,7 +27,7 @@ To participate in this bootcamp, you'll need the following tools:
     VSCode is a lightweight and powerful code editor. It supports a wide range of languages and offers excellent features for coding, debugging, and version control.
 
     ### Installing VSCode  
-    1. Download VSCode from here.  
+    1. Download VSCode from [here](https://code.visualstudio.com/download).  
     2. Follow the installation instructions for your operating system.  
     3. Once installed, open VSCode.  
 
@@ -35,7 +36,7 @@ To participate in this bootcamp, you'll need the following tools:
     Python is the programming language we'll be using throughout the bootcamp. It's known for its readability and versatility.
 
     ### Installing Python
-    1. Download Python from here.
+    1. Download Python from [here](https://www.python.org/downloads/).
     2. During installation, ensure you check the box that says "Add Python to PATH."
     3. Follow the installation instructions.
 
@@ -43,7 +44,7 @@ To participate in this bootcamp, you'll need the following tools:
     Git is a version control system that helps manage code changes and collaboration.
 
     ### Installing Git
-    1. Download Git from here.
+    1. Download Git from [here](https://git-scm.com/downloads).
     2. Follow the installation instructions, selecting the recommended settings.
     3. Setting Up Your Development Environment
 
