@@ -36,17 +36,30 @@ else:
 ```
 This code checks if age is 18 or older and prints the corresponding message.
 
-## 4. Iterations (Loops)
-Loops in Python allow you to repeat a block of code multiple times. The for loop is commonly used:
+## 4. Iterations 
 
-```python
-for i in range(5):
-    print("Iteration", i + 1)
-```
-This loop prints "Iteration 1" through "Iteration 5". Python also has while loops for iteration.
+- ### Loops
+    Loops in Python allow you to repeat a block of code multiple times. The for loop is commonly used:
+
+    ```python
+    for i in range(5):
+        print("Iteration", i + 1)
+    ```
+    This loop prints "Iteration 1" through "Iteration 5". Python also has while loops for iteration.
+
+- ### List Comprehension
+    List comprehension is a concise way to create lists in Python. It combines a loop and an expression:
+
+    ```python
+    names = ["Alice", "Bob", "Charlie", "Anna", "Alex"]
+    a_names = [name for name in names if name.startswith("A")]
+    print(a_names)
+    # Output: ['Alice', 'Anna', 'Alex']
+    ```
+    This will output ['Alice', 'Anna', 'Alex']. In this example, the list comprehension [name for name in names if name.startswith("A")] filters the names that start with the letter 'A' from the original list. 
 
 ## 5. Comments
-Comments in Python are used to explain code and are ignored by the interpreter. Single-line comments start with #, while multi-line comments are enclosed in triple quotes (''' or """).
+Comments in Python are used to explain code and are ignored by the interpreter. Comments start with #
 
 
 ```python
@@ -66,9 +79,10 @@ Python supports various data types like integers, floats, strings, and booleans:
 price = 99.99  # Float
 quantity = 5    # Integer
 is_available = True  # Boolean
+name = "Apple"  # String
 ```
 
-Here, price is a float (decimal), quantity is an integer, and is_available is a boolean.
+Here, price is a float (decimal), quantity is an integer, is_available is a boolean, and name is a string.
 
 
 # Conclusion
