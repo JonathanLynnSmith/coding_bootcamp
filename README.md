@@ -11,7 +11,7 @@ Checkout the outline for the day here --> [outline.md](./outline.md)
 Before we begin, 
 - Make sure you have a basic understanding of programming concepts.  
   - This can easily be done by checking out the [basic_coding_concepts.md](basic_coding_concepts.md) file in this repository.  
-  - Optional Video --> [here](https://www.youtube.com/watch?v=-uleG_Vecis) 
+  - Optional Video - [here](https://www.youtube.com/watch?v=-uleG_Vecis) 
 - Familiarity with the command line will be helpful but is not mandatory.
   - [Basic command line tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
 
